@@ -1,5 +1,6 @@
 package ejercicio;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class UsoParque {
@@ -10,9 +11,9 @@ public class UsoParque {
 		Scanner sc = new Scanner (System.in);
 		//variables
 		int opcion = 0;
-		int entradas = 0;
+		int entradas = 50;
 		int chanclas = 0;
-		int souvenir = 0;
+		int souvenir = 10;
 		boolean volver = true;
 		int repetir = 0;
 		

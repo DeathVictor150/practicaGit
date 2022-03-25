@@ -34,7 +34,7 @@ public class Parque {
 	
 	//getter
 	public String dameAforo () {
-		return "Quedan "+entradas+" entradas, quedan "+chanclas+" chanclas";
+		return "Quedan "+entradas+" entradas, quedan "+chanclas+" chanclas, se puede seguir vendiendo ";
 	}
 		
 	
