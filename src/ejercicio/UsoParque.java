@@ -11,9 +11,9 @@ public class UsoParque {
 		Scanner sc = new Scanner (System.in);
 		//variables
 		int opcion = 0;
-		int entradas = 50;
+		int entradas = 0;
 		int chanclas = 0;
-		int souvenir = 10;
+		int souvenir = 0;
 		boolean volver = true;
 		int repetir = 0;
 		
